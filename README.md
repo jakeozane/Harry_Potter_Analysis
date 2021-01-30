@@ -4,4 +4,4 @@
 
 Detects character first names and graphs using numpy and matplot
 
-Todo: Refactor, simplify to improve readability
+Todo: Refactor, simplify and comment to improve readability
