@@ -1,7 +1,5 @@
-# Fall_Portfolio_Project
+# 2019 UIUC: Intro to Programming for Data Science Portfolio Project (First CS Course)
 
-2019 UIUC: Intro to Programming for Data Science Portfolio Project (First CS Course)
-
-Detects character first names and graphs using numpy and matplot
+Detects character first names using numpy and graphs data with matplot
 
 Todo: Refactor, simplify and comment to improve readability
