@@ -2,4 +2,4 @@
 
 Detects character first names using numpy and graphs data with matplot
 
-Todo: Refactor, simplify and comment to improve readability
+Todo: Refactor, comment to improve readability (Also need to figure out how this works again)
