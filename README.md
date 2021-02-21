@@ -1,4 +1,4 @@
-# 2019 UIUC: Intro to Programming for Data Science NLP Project (First CS Course)
+# 2019 Programming for Data Science NLP Project
 
 Detects character first names using numpy and graphs data with matplot
 
